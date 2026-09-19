@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "template_version": "ba56c49d796df3fbd899",
+  "page_size": 20,
+  "site_id": "9a9d1872e8def1028a67e874",
+  "owner": "wegyvj",
+  "repo": "page-e6d9f6a56126b2752afb8bdd",
+  "title": "机场推荐第一",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "e6d9f6a56126b2752afb8bdd",
+      "a": "可莉云",
+      "b": "机场推荐第一",
+      "entity": "可莉云",
+      "brand": "机场推荐第一",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "4df1160de6f2c1defce77c9b595df17c9276193cd7de1d9684043409281ca8cc",
+      "content": {
+        "primary_entity": "可莉云",
+        "keyword1": "可莉云",
+        "keyword2": "机场推荐第一",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备挑客户端，订阅配置更顺手。",
+          "AI_CLIENTS_TITLE": "按设备选客户端",
+          "AI_CLOSING_TEXT": "可莉云提供多种线路与套餐组合，选好设备与流量档位即可完成订阅配置。",
+          "AI_CLOSING_TITLE": "从设备与套餐开始",
+          "AI_DESCRIPTION": "，可莉云提供基础版、旗舰版与团队版三档订阅，月付 ¥15 起，年付 ¥150 起，流量从每月 100GB 到 1000GB 不等，设备数从 3 台到 20 台，适合日常浏览、流媒体与多设备协同使用。",
+          "AI_FEATURES_INTRO": "从流量、设备和线路三个角度挑选可莉云套餐。",
+          "AI_FEATURES_TITLE": "可莉云套餐特点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB、3 台设备；旗舰版 300GB、5 台设备；团队版 1000GB、20 台设备，按需求选择。",
+          "AI_FEATURE_TEXT_2": "旗舰版提供 IPLC 专线并针对游戏延迟优化，团队版配备 VIP 高带宽节点，适合对速度敏感的场景。",
+          "AI_FEATURE_TEXT_3": "三档套餐均支持年付，按年支付可节省两个月费用，长期使用更划算。",
+          "AI_FEATURE_TITLE_1": "流量与设备分档",
+          "AI_FEATURE_TITLE_2": "线路按需选择",
+          "AI_FEATURE_TITLE_3": "年付更省费用",
+          "AI_GUIDE_INTRO": "从挑选套餐到完成订阅配置的简要流程。",
+          "AI_GUIDE_TITLE": "可莉云订阅配置步骤",
+          "AI_HERO_INTRO": "可莉云提供多档海外加速订阅，覆盖日常浏览、流媒体与游戏加速需求，按设备数量和流量挑选套餐，并依客户端说明完成订阅配置。",
+          "AI_HERO_SUBTITLE": "多档套餐适配不同设备",
+          "AI_HIGHLIGHT_1": "三档套餐月付 ¥15 起",
+          "AI_HIGHLIGHT_2": "年付节省两个月费用",
+          "AI_HIGHLIGHT_3": "旗舰版含 IPLC 专线",
+          "AI_PLANS_INTRO": "基础版适合轻量单人或双设备使用，旗舰版面向流媒体与游戏玩家，团队版则满足多设备高流量场景。",
+          "AI_PLANS_TITLE": "三档套餐按需比较",
+          "AI_STEP_TEXT_1": "根据设备数量与月流量需求，在基础版、旗舰版和团队版中确定合适档位。",
+          "AI_STEP_TEXT_2": "查看所选套餐的节点线路、流媒体解锁范围与设备数量限制，确认符合使用场景。",
+          "AI_STEP_TEXT_3": "按照对应客户端的订阅导入说明添加配置，完成连接后即可使用。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "确认适配要求",
+          "AI_STEP_TITLE_3": "配置客户端订阅",
+          "AI_VISUAL_TITLE": "可莉云订阅套餐",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "可莉云套餐可以随时升级吗？",
+          "AI_FAQ_ANSWER_1": "支持在已有订阅基础上选择更高层级套餐，升级后流量额度与设备数量按新套餐执行，具体差额处理以购买记录中的说明为准。",
+          "AI_FAQ_QUESTION_2": "一个订阅能同时在几台设备使用？",
+          "AI_FAQ_ANSWER_2": "基础版支持3台设备同时在线，旗舰版为5台，团队版为20台。超出限制的设备需要等待其他设备下线或选择更高层级套餐。",
+          "AI_FAQ_QUESTION_3": "年付和月付有什么区别？",
+          "AI_FAQ_ANSWER_3": "年付相当于一次性支付全年费用，折算到每月单价更低。基础版年付¥150，旗舰版年付¥350，团队版年付¥850，权益与对应月付套餐一致。",
+          "AI_FAQ_QUESTION_4": "旗舰版和基础版的线路有区别吗？",
+          "AI_FAQ_ANSWER_4": "旗舰版使用IPLC专线并针对游戏加速优化，支持全节点原生流媒体解锁；基础版使用普通线路节点池并解锁基础流媒体，适合日常浏览与轻量使用。",
+          "AI_FAQ_QUESTION_5": "团队版是否支持多人管理？",
+          "AI_FAQ_ANSWER_5": "团队版提供20台设备同时在线、VIP专属高带宽节点与专属客户经理服务，并支持企业定制路由，适合小组或公司统一配置使用。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "06febe8d133b357031d5181a8466e162f021bc744bf4f1aabdd12811370fbe39",
+    "sitemap.xml": "fb18b1d6a8689ed77ba273e7a67633c4e9e4871a79309d716204b9a8a0f75efa",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "8a34cfe59b0ce16703e1f46e17d296dc694904cb5a1b9a71373b7c6ca6cf922f"
+}
